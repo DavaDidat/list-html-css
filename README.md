@@ -36,7 +36,9 @@ Proyek ini dikerjakan sebagai bagian dari pembelajaran di **roadmap.sh**.
 
 📦 to-do-list
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 
@@ -84,3 +86,9 @@ Proyek ini dikerjakan sebagai bagian dari pembelajaran di **roadmap.sh**.
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan **belajar** dan bebas digunakan atau dikembangkan lebih lanjut.
+
+## link URL project
+ https://davadidat.github.io/list-html-css/
+
+## link roadmap.sh
+https://roadmap.sh/projects/changelog-component
