@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Daftar Tugas</h1>
+      <div class="input-group">
+        <input type="text" class="Input" placeholder="Tulis tugas..." />
+        <button class="Tambah" disabled>Tambah</button>
+      </div>
+      <p id="errorMassage" class="error"></p>
+      <ul class="taskList">
+        <li class="taskItem">
+          <div class="Info">
+            <span class="Nama">Bermain</span>
+            <span class="Date">12-12-2026</span>
+          </div>
+          <button class="deleteBtn">X</button>
+        </li>
+        <li class="taskItem">
+          <div class="Info">
+            <span class="Nama">Belajar</span>
+            <span class="Date">12-11-2026</span>
+          </div>
+          <button class="deleteBtn">X</button>
+        </li>
+        <li class="taskItem">
+          <div class="Info">
+            <span class="Nama">Memahami HTML</span>
+            <span class="Date">10-10-2026</span>
+          </div>
+          <button class="deleteBtn">X</button>
+        </li>
+        <li class="taskItem">
+          <div class="Info">
+            <span class="Nama">Memahami CSS</span>
+            <span class="Date">11-11-2026</span>
+          </div>
+          <button class="deleteBtn">X</button>
+        </li>
+      </ul>
+    </div>
+  </body>
+</html>
